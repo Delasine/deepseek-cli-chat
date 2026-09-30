@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地对话记录（含个人聊天内容，不要提交）
+chat_history.json
+
+# 环境变量 / 密钥
+.env
+.env.*
